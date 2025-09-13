@@ -1,4 +1,3 @@
 ### Hi there 👋
 
-- 🏫 I'm a third-year Computer Science student
-- 👨‍💻 Check out my repositories to see the projects I've been working on
+My name is Milán, and I'm a full stack developer from Hungary. I do a lot of React and Next.js, and also work with other frameworks like Astro. Check out the projects I've been working on.
